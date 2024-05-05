@@ -45,9 +45,11 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 - [Next.js](https://nextjs.org/?uwu)
 - [Hono](https://hono.dev/?kawaii=true)
 - [Vue.js](https://vuejs.org/?uwu)
+- [Vite](https://vitejs.dev/?uwu)
 - [ElysiaJS](https://elysiajs.com/)
 - [Asahi Linux](https://asahilinux.org/?kawaii=true)
 - [Haskell](https://www.haskell.org/?uwu=true)
+- [Qwik](https://qwik.dev/?uwu=true)
 
 ## Misc.
 
