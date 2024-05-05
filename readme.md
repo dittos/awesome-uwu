@@ -12,7 +12,9 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 
 <!-- image -->
 
-<img src="uwu.jpg" width="400" />
+<a href="https://twitter.com/sawaratsuki1004/status/1786200580312170541" target="_blank" rel="noopener noreferrer">
+    <img src="https://pbs.twimg.com/media/GMnb8JvbAAAx7RZ?format=png&name=large" />
+</a>
 
 </div>
 
@@ -45,6 +47,8 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 ## Contributing
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
+
+<img src="uwu.jpg" width="400" />
 
 ### Contributors
 
