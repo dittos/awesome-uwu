@@ -22,10 +22,15 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 
 ## Contents
 
+- [The Font](#the-font)
 - [Logos](#logos)
 - [Websites](#websites)
 
 <!-- CONTENT -->
+
+## The Font
+
+- [Yuruka Std by FONTWORKS](https://lets.fontworks.co.jp/fonts/218)
 
 ## Logos
 
