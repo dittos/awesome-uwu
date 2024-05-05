@@ -25,6 +25,7 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 - [The Font](#the-font)
 - [Logos](#logos)
 - [Websites](#websites)
+- [Misc.](#misc)
 
 <!-- CONTENT -->
 
@@ -47,6 +48,10 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 - [ElysiaJS](https://elysiajs.com/)
 - [Asahi Linux](https://asahilinux.org/?kawaii=true)
 - [Haskell](https://www.haskell.org/?uwu=true)
+
+## Misc.
+
+- [Kubernetes v1.30: Uwubernetes](https://kubernetes.io/blog/2024/04/17/kubernetes-v1-30-release/)
 
 <!-- END CONTENT -->
 
