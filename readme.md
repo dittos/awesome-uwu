@@ -13,7 +13,7 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 <!-- image -->
 
 <a href="https://twitter.com/sawaratsuki1004/status/1786200580312170541" target="_blank" rel="noopener noreferrer">
-    <img src="https://pbs.twimg.com/media/GMnb8JvbAAAx7RZ?format=png&name=large" />
+    <img src="https://pbs.twimg.com/media/GMnb8JvbAAAx7RZ?format=png&name=small" />
 </a>
 
 </div>
@@ -41,6 +41,7 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 - [Vue.js](https://vuejs.org/?uwu)
 - [ElysiaJS](https://elysiajs.com/)
 - [Asahi Linux](https://asahilinux.org/?kawaii=true)
+- [Haskell](https://www.haskell.org/?uwu=true)
 
 <!-- END CONTENT -->
 
