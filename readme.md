@@ -21,7 +21,7 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 ## Contents
 
 - [Logos](#logos)
-- [Project Websites](#project-websites)
+- [Websites](#websites)
 
 <!-- CONTENT -->
 
@@ -30,9 +30,15 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 - [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)
 - [@sawaratsuki1004 on X](https://twitter.com/sawaratsuki1004)
 
-## Project Websites
+## Websites
 
+- [Bluesky](https://bsky.app/?kawaii=true)
 - [React](https://react.dev/?uwu=true)
+- [Next.js](https://nextjs.org/?uwu)
+- [Hono](https://hono.dev/?kawaii=true)
+- [Vue.js](https://vuejs.org/?uwu)
+- [ElysiaJS](https://elysiajs.com/)
+- [Asahi Linux](https://asahilinux.org/?kawaii=true)
 
 <!-- END CONTENT -->
 
