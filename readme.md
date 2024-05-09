@@ -50,6 +50,7 @@ Can u pwease merge my pwull wequest senpai?!! UwU
 - [Asahi Linux](https://asahilinux.org/?kawaii=true)
 - [Haskell](https://www.haskell.org/?uwu=true)
 - [Qwik](https://qwik.dev/?uwu=true)
+- [Angular](https://angular.dev/?uwu=)
 
 ## Misc.
 
